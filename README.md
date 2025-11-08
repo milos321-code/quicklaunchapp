@@ -1,16 +1,19 @@
+![App Icon](assets/icon/app_icon.png)
 # Quick Launch App
 
-A new Flutter project.
+A Flutter project for Android which lets you quickly launch applications and features and adjust sceren brightness with volume buttons.
 
-## Getting Started
+## Features
+- Select app or feature you want to launch and save preferences
+- Minimal and fast
+- Adjust screen brightness with a press of the volume buttons
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Android operating system with a minimum SDK/API level 34 (Android 14)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+Download and install the latest quicklaunchapp-release.apk. After that, it is recommended to set the side key of your device to open the Quick Launch app. Refer to your phone manufacturers manual for instructions. After that, you can use the side key to open the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
+![Home Screen](assets/home.jpg)
+![App Selector](assets/app_select.jpg)
